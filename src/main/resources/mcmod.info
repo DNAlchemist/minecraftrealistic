@@ -1,0 +1,16 @@
+[
+{
+  "modid": "minecraftrealistic",
+  "name": "Minecraft Realistic",
+  "description": "Coming soon.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Alchemist"],
+  "credits": "All code contributors.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
